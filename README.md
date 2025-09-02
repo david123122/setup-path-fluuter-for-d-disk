@@ -1,3 +1,4 @@
+на рускомм
 # setup-path-fluuter-for-d-disk
 # Установка Flutter + Dart и добавление в PATH
 
